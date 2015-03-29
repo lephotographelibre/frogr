@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="introduction" xml:lang="de">
+<info>
+  <link type="guide" xref="index"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+  <desc>Einführung in die Bildverwaltung <app>Frogr</app>.</desc>
+</info>
+<title>Einführung in Frogr</title>
+<p><app>Frogr</app> ist ein Verwaltungsprogramm für <link href="http://www.flickr.com/">Flickr</link>. <app>Frogr</app> ist eine kleine Anwendung für die GNOME-Arbeitsumgebung, die Ihnen die Verwaltung Ihrer Konten des Flickr-Bilderdienstes ermöglicht.</p>
+  <figure>
+    <title><gui>Frogr</gui>-Fenster</title>
+    <desc><app>Frogr</app>-Hauptfenster</desc>
+    <media type="image" src="figures/frogr-remote-organizer.png" mime="image/png" style="right">
+      <p><app>Frogr</app>-Hauptfenster.</p>
+    </media>
+  </figure>
+
+  <section><title>Flickr</title>
+    <p><link href="http://www.flickr.com/">Flickr</link> ist eine Webseite, auf der Sie sowohl Bilder als auch Videos speichern können.</p>
+  </section>
+
+  <section><title>Grundlegende Funktionen</title>
+    <list>
+      <item><p>Allow to upload pictures and videos to Flickr</p></item>
+      <item><p>Hochladen von Bildern, die sich auf entfernten Rechnern befinden</p></item>
+      <item><p>Bilder mit Markierungen versehen</p></item>
+      <item><p>Nach dem Hochladevorgang Alben zusammenstellen und Bilder zu Sammlungen hinzufügen.</p></item>
+      <item><p>Unterstützung für die Verwaltung mehrerer Flickr-Konten.</p></item>
+      <item><p>Support for saving and loading projects.</p></item>
+    </list>
+  </section>
+
+  <section><title>Info</title>
+    <p>Weitere Informationen zu <app>Frogr</app> erhalten Sie über das Menü <guiseq><gui>Frogr</gui><gui>Info</gui></guiseq>.</p>
+  </section>
+
+</page>

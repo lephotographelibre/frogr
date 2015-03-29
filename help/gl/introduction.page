@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="introduction" xml:lang="gl">
+<info>
+  <link type="guide" xref="index"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+  <desc>Introdución ao organizador remoto <app>Frogr</app>.</desc>
+</info>
+<title>Intordución a Frogr</title>
+<p><app>Frogr</app> é un Organizador remoto de <link href="http://www.flickr.com/">Flickr</link>. <app>Frogr</app> é un pequeno aplicativo para o escritorio GNOME que lle permite aos usuarios xestionar as súas contas do sitio web de almacenamento de imaxes Flickr.</p>
+  <figure>
+    <title>Xanela de <gui>Frogr</gui></title>
+    <desc>Xanela principal de <app>Frogr</app></desc>
+    <media type="image" src="figures/frogr-remote-organizer.png" mime="image/png" style="right">
+      <p>Xanela principal de <app>Frogr</app>.</p>
+    </media>
+  </figure>
+
+  <section><title>Flickr</title>
+    <p><link href="http://www.flickr.com/">Flickr</link> é un sitio web que lle permite almacenar tanto imaxes como vídeos.</p>
+  </section>
+
+  <section><title>Características principais</title>
+    <list>
+      <item><p>Allow to upload pictures and videos to Flickr</p></item>
+      <item><p>Permítelle subir imaxes localizadas en computadores remotos</p></item>
+      <item><p>Permítelle engadir etiquetas ás imaxes</p></item>
+      <item><p>Permítelle especificar álbumes e grupos para as imaxes a engadir despois do proceso de subida.</p></item>
+      <item><p>Compatibilidade para xestionar varias contas de Flickr.</p></item>
+      <item><p>Support for saving and loading projects.</p></item>
+    </list>
+  </section>
+
+  <section><title>Sobre</title>
+    <p>Pode obter máis información sobre <app>Frogr</app> usando o menú <guiseq><gui>Frogr</gui><gui>Sobre</gui></guiseq>.</p>
+  </section>
+
+</page>

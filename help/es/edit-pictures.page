@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="guide" id="edit-pictures" xml:lang="es">
+
+  <info>
+    <link type="guide" xref="index#pictures"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Corregir imágenes</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Daniel Mustieles</mal:name>
+      <mal:email>daniel.mustieles@gmail.com</mal:email>
+      <mal:years>2011 - 2013</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Editar los detalles</title>
+  <p>Para editar los detalles de una imagen o de un vídeo, pulse con el botón derecho y elija <gui>Editar Detalles</gui>. Hasta que no edite los detalles, se usarán los valores predeterminados.</p>
+  <figure>
+    <title>Editar los detalles de la imagen</title>
+    <desc>Corregir los detalles de la imagen.</desc>
+    <media type="image" src="figures/edit-picture-details.png" mime="image/png" style="right">
+    </media>
+  </figure>
+
+  <list>
+    <item><title>Título</title><p>Use esta caja para corregir el título</p></item>
+    <item><title>Descripción</title><p>Añadir una descripción al elemento</p></item>
+    <item><title>Etiquetas</title><p>Añadir etiquetas para mejorar la clasificación del elemento</p></item>
+    <item><title>Visibilidad</title><p>Elegir si el elemento es público o privado</p></item>
+    <item><title>Tipo de contenido</title><p>Puede especificar si el elemento es una foto, una captura de pantalla o cualquier otra cosa</p></item>
+    <item><title>Nivel de seguridad</title><p>Puede valorar el tipo de elemento que está subiendo</p></item>
+    <item><title>Licencia</title><p>Puede cambiar la licencia o simplemente usar la que Flickr establece de manera predeterminada</p></item>
+    <item><title>Datos de geolocalización</title><p>Puede dejar que frogr establezca la información de geolocalización para una imagen en Flickr basándose en su información Exif</p></item>
+    <item><title>Mostrar en los resultados de búsqueda globales</title><p>Puede especificar si debe ser posible encontrar su imagen o vídeo usando el motor de búsqueda de Flickr</p></item>
+  </list>
+
+</page>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="introduction" xml:lang="ru">
+<info>
+  <link type="guide" xref="index"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+  <desc>Знакомство с <app>Frogr</app> — инструментом удалённого управления Flickr.</desc>
+</info>
+<title>Знакомство с Frogr</title>
+<p><app>Frogr</app> служит для управления фотоснимками во <link href="http://www.flickr.com/">Flickr</link>. Это небольшое приложение для GNOME позволяет управлять своими учётными записями на сайте хранения фотоснимков Flickr.</p>
+  <figure>
+    <title>Окно <gui>Frogr</gui></title>
+    <desc>Главное окно <app>Frogr</app></desc>
+    <media type="image" src="figures/frogr-remote-organizer.png" mime="image/png" style="right">
+      <p>Главное окно <app>Frogr</app>.</p>
+    </media>
+  </figure>
+
+  <section><title>Flickr</title>
+    <p><link href="http://www.flickr.com/">Flickr</link> — это веб-сайт, на котором можно размещать изображения и видеоклипы.</p>
+  </section>
+
+  <section><title>Основные возможности</title>
+    <list>
+      <item><p>Allow to upload pictures and videos to Flickr</p></item>
+      <item><p>Позволяет загружать снимки, хранящихся на других компьютерах.</p></item>
+      <item><p>Позволяет добавлять метки к фотоснимкам</p></item>
+      <item><p>Позволяет группировать снимки в наборы после загрузки.</p></item>
+      <item><p>Поддерживает нескольких учётных записей Flickr.</p></item>
+      <item><p>Support for saving and loading projects.</p></item>
+    </list>
+  </section>
+
+  <section><title>About</title>
+    <p>You can have more information about <app>Frogr</app> using the menu <guiseq><gui>Frogr</gui><gui>About</gui></guiseq>.</p>
+  </section>
+
+</page>

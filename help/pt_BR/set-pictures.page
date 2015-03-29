@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="guide" id="set-pictures" xml:lang="pt-BR">
+
+  <info>
+    <link type="guide" xref="organize"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Adicionando elementos aos conjuntos</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Rafael Ferreira</mal:name>
+      <mal:email>rafael.f.f1@gmail.com</mal:email>
+      <mal:years>2013</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Adicionando elementos aos conjuntos</title>
+  <p>Você pode adicionar imagens e vídeos aos conjuntos no Flickr. Um conjunto é uma categoria. Conjunto não significa visão hierárquica.</p>
+  <p>Clique com um ou mais elementos e escolha <gui>Adicionar ao conjunto</gui>. Você pode escolher adicionar a um conjunto já existente ou criar um novo.</p>
+  <figure>
+    <title>Adicionando elementos a conjuntos existentes</title>
+    <desc>Adicionando elementos a conjuntos existentes</desc>
+    <media type="image" src="figures/add-to-sets.png" mime="image/png" style="right">
+    </media>
+  </figure>
+
+  <figure>
+    <title>Criando novos conjuntos para adicionar elementos</title>
+    <desc>Criação de novos conjuntos para adicionar elementos. Você pode usar o título e a descrição do conjunto para cada elemento selecionado também.</desc>
+    <media type="image" src="figures/create-new-set.png" mime="image/png" style="right">
+    </media>
+  </figure>
+
+</page>

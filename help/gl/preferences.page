@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="guide" id="preferences" xml:lang="gl">
+
+  <info>
+    <link type="guide" xref="index#customize"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Preferencias</desc>
+  </info>
+
+  <title>Preferencias</title>
+
+  <p>Vaia a Preferencias usando o menú <guiseq><gui>Frogr</gui><gui>Preferencias</gui></guiseq>.</p>
+
+  <section id="preferences-general">
+    <title>Preferencias xerais</title>
+    <figure>
+      <title>Preferencias xerais de <gui>Frogr</gui></title>
+      <desc>Preferencias xerais de <app>Frogr</app></desc>
+      <media type="image" src="figures/preferences-general.png" mime="image/png" style="right">
+        <p>Preferencias xerais de <app>Frogr</app>.</p>
+      </media>
+    </figure>
+  </section>
+
+  <section id="preferences-connection">
+    <title>Preferencias da conexión</title>
+    <p>Esta lapela permítelle estabelecer un proxy.</p>
+    <figure>
+      <title>Preferencias da conexión de <gui>Frogr</gui></title>
+      <desc>Preferencias da conexión de <app>Frogr</app></desc>
+      <media type="image" src="figures/preferences-connection.png" mime="image/png" style="right">
+        <p>Xanela principal de <app>Frogr</app>.</p>
+      </media>
+    </figure>
+  </section>
+
+  <section id="preferences-misc">
+    <title>Preferencias varias</title>
+    <figure>
+      <title>Xanela de preferencias varias de <gui>Frogr</gui></title>
+      <desc>Xanela de preferencias varias de <app>Frogr</app></desc>
+      <media type="image" src="figures/preferences-misc.png" mime="image/png" style="right">
+        <p>Xanela de preferencias varias de <app>Frogr</app>.</p>
+      </media>
+    </figure>
+  </section>
+
+</page>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="create-account" xml:lang="pt-BR">
+  <info>
+    <link type="guide" xref="index#account"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Como você pode criar sua conta</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Rafael Ferreira</mal:name>
+      <mal:email>rafael.f.f1@gmail.com</mal:email>
+      <mal:years>2013</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Como você pode criar sua conta</title>
+  <p>Primeiro crie uma conta</p>
+  <p>Quando você executar <app>Frogr</app> pela primeira vez, será mostrada uma janela explicando que você deve criar uma conta.</p>
+  <figure>
+    <title>Autorizando frogr</title>
+    <desc>Autorização do frogr. Requisitando um código de verificação</desc>
+    <media type="image" src="figures/auth-dialog-step1.png" mime="image/png" style="right">
+    </media>
+  </figure>
+  <p>Clique em Ok e você será levado a executar o seu navegador web padrão. Neste, crie uma conta no Flickr ou se autentique em uma conta existente.</p>
+  <p>Então, autorize ao <app>Frogr</app> acessar esta conta. Agora, você pode voltar para a janela do <app>Frogr</app>, digitar o código de verificação e usar o aplicativo para enviar qualquer imagem!</p>
+  <figure>
+    <title>Autorizando frogr</title>
+    <desc>Autorização do frogr. Finalizando o processo</desc>
+    <media type="image" src="figures/auth-dialog-step2.png" mime="image/png" style="right">
+    </media>
+  </figure>
+</page>

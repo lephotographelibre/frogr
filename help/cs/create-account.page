@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="create-account" xml:lang="cs">
+  <info>
+    <link type="guide" xref="index#account"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Jak vytvořit svůj účet</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Marek Černocký</mal:name>
+      <mal:email>marek@manet.cz</mal:email>
+      <mal:years>2011, 2012, 2013</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Jak vytvořit svůj účet</title>
+  <p>Nejprve si vytvořte účet</p>
+  <p>Když poprvé spustíte <app>Frogr</app>, zobrazí okno vysvětlující, že budete muset vytvořit účet.</p>
+  <figure>
+    <title>Autorizace Frogr</title>
+    <desc>Autorizace Frogr. Požadavek na ověřovací kód</desc>
+    <media type="image" src="figures/auth-dialog-step1.png" mime="image/png" style="right">
+    </media>
+  </figure>
+  <p>Klikněte na OK, tím se spustí váš výchozí webový prohlížeč. V něm buď vytvořte účet Flickr nebo se přihlaste k existujícímu.</p>
+  <p>Potom autorizujte <app>Frogr</app> k přístupu k tomuto účtu. Nyní se můžete vrátit zpět do okna <app>Frogr</app>, zadat ověřovací kód a použít aplikaci k nahrávání libovolných obrázků.</p>
+  <figure>
+    <title>Autorizace Frogr</title>
+    <desc>Autorizace Frogr. Dokončení procesu</desc>
+    <media type="image" src="figures/auth-dialog-step2.png" mime="image/png" style="right">
+    </media>
+  </figure>
+</page>

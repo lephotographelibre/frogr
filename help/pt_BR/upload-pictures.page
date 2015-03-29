@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="upload-pictures" xml:lang="pt-BR">
+
+  <info>
+    <link type="guide" xref="pictures"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Enviando elementos</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Rafael Ferreira</mal:name>
+      <mal:email>rafael.f.f1@gmail.com</mal:email>
+      <mal:years>2013</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Enviando elementos</title>
+  <p>Você pode enviar imagens e vídeos usando o botão de <gui>seta</gui> da barra de ferramentas. Ou você pode usar o menu <guiseq><gui>Arquivo</gui><gui>Enviar todos</gui></guiseq>. As imagens enviadas vão desaparecer da lista. Você pode remover algumas imagens antes de enviar todas as restantes.</p>
+
+</page>

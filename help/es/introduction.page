@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="introduction" xml:lang="es">
+<info>
+  <link type="guide" xref="index"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+  <desc>Introducción al organizador remoto <app>Frogr</app>.</desc>
+
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Daniel Mustieles</mal:name>
+      <mal:email>daniel.mustieles@gmail.com</mal:email>
+      <mal:years>2011 - 2013</mal:years>
+    </mal:credit>
+  </info>
+<title>Introducción a Frogr</title>
+<p><app>Frogr</app> es un organizador remoto para <link href="http://www.flickr.com/">Flickr</link>. <app>Frogr</app> es una pequeña aplicación para el escritorio GNOME que permite a los usuarios gestionar sus cuentas en la página web del almacenamiento de imágenes Flickr.</p>
+  <figure>
+    <title>Ventana de <gui>Frogr</gui></title>
+    <desc>Ventana principal de <app>Frogr</app></desc>
+    <media type="image" src="figures/frogr-remote-organizer.png" mime="image/png" style="right">
+      <p>Ventana principal de <app>Frogr</app>.</p>
+    </media>
+  </figure>
+
+  <section><title>Flickr</title>
+    <p><link href="http://www.flickr.com/">Flickr</link>es una página web que permite almacenar imágenes y vídeos.</p>
+  </section>
+
+  <section><title>Características principales</title>
+    <list>
+      <item><p>Permitir subir imágenes y vídeos a Flickr</p></item>
+      <item><p>Permite subir imágenes ubicadas en máquinas remotas</p></item>
+      <item><p>Permite añadir etiquetas a las imágenes</p></item>
+      <item><p>Permite especificar álbumes y grupos para las imágenes que añadir después de subirlas.</p></item>
+      <item><p>Soporte para manejar varias cuentas de Flickr.</p></item>
+      <item><p>Soporte para guardar y cargar proyectos.</p></item>
+    </list>
+  </section>
+
+  <section><title>Acerca de</title>
+    <p>Puede obtener más información sobre <app>Frogr</app> usando el menú <guiseq><gui>Ayuda</gui><gui>Acerca de</gui></guiseq>.</p>
+  </section>
+
+</page>

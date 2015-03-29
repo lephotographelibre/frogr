@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="guide" id="edit-pictures" xml:lang="fr">
+
+  <info>
+    <link type="guide" xref="index#pictures"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Modifier des images</desc>
+  </info>
+
+  <title>Modification des détails</title>
+  <p>Pour modifier les détails d'une image ou d'une vidéo, faites un clic droit sur un élément et choisissez <gui>Modifier les détails</gui>. Avant modification, ces détails seront ceux du paramétrage par défaut.</p>
+  <figure>
+    <title>Modification des détails de l'image</title>
+    <desc>Modifier les détails de l'image.</desc>
+    <media type="image" src="figures/edit-picture-details.png" mime="image/png" style="right">
+    </media>
+  </figure>
+
+  <list>
+    <item><title>Titre</title><p>Utilisez ce champ pour modifier le titre</p></item>
+    <item><title>Description</title><p>Ajoutez une description à l'élément</p></item>
+    <item><title>Étiquettes</title><p>Ajoutez des étiquettes pour mieux identifier l'élément</p></item>
+    <item><title>Visibilité</title><p>Décidez si l'élément est publique ou privé.</p></item>
+    <item><title>Type de contenu</title><p>Vous pouvez définir si l'élément est une photo, une capture ou quelque chose d'autre</p></item>
+    <item><title>Niveau de sécurité</title><p>Vous pouvez mettre une appréciation à l'élément que vous envoyez</p></item>
+    <item><title>Licence</title><p>Vous pouvez soit modifier la licence, soit utiliser celle définie par défaut dans Flickr</p></item>
+    <item><title>Données de géolocalisation</title><p>Vous pouvez laisser frogr définir les données de géolocalisation d'une photo dans Flickr en se basant sur celles contenues dans ses informations EXIF</p></item>
+    <item><title>Affichage dans les résultats de recherche globale</title><p>Vous pouvez autoriser ou interdire la rechercher de votre image ou de votre vidéo avec le moteur de recherche de Flickr</p></item>
+  </list>
+
+</page>

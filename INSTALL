@@ -1,0 +1,13 @@
+Compiling from source code
+==========================
+
+To compile and try the application you can just do this:
+
+ $ ./autogen.sh
+ $ make
+ $ sudo make install
+ $ frogr
+
+To uninstall just do:
+
+ $ sudo make uninstall

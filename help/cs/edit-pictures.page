@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="guide" id="edit-pictures" xml:lang="cs">
+
+  <info>
+    <link type="guide" xref="index#pictures"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Měňte obrázky</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Marek Černocký</mal:name>
+      <mal:email>marek@manet.cz</mal:email>
+      <mal:years>2011, 2012, 2013</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Úprava podrobností</title>
+  <p>Když chcete upravit podrobnosti obrázku nebo videa, klikněte na něj pravým tlačítkem a zvolte <gui>Upravit podrobnosti</gui>. Dokud je nijak neupravíte, používají se výchozí podrobnosti.</p>
+  <figure>
+    <title>Úprava podrobností obrázku</title>
+    <desc>Změna podrobností obrázku.</desc>
+    <media type="image" src="figures/edit-picture-details.png" mime="image/png" style="right">
+    </media>
+  </figure>
+
+  <list>
+    <item><title>Název</title><p>Toto pole použijte ke změně názvu.</p></item>
+    <item><title>Popis</title><p>Přidejte objektu nějaký popis</p></item>
+    <item><title>Štítky</title><p>Přidejte nějaké štítky pro lepší zatřídění objektů</p></item>
+    <item><title>Viditelnost</title><p>Zvolte, zda je objekt veřejný nebo soukromý.</p></item>
+    <item><title>Typ obsahu</title><p>Můžete určit, zda je objekt fotografií, snímkem obrazovky nebo něčím jiný</p></item>
+    <item><title>Úroveň zabezpečení</title><p>Můžete ohodnotit druh objektu, který nahráváte</p></item>
+    <item><title>Licence</title><p>Můžete změnit licenci nebo jen prostě použít výchozí, která je nastavena na serveru Flickr</p></item>
+    <item><title>Údaje o zeměpisné poloze</title><p>Můžete nechat Frogr, aby nastavil informace o zeměpisné poloze pro obrázky na službě Filckr na základě informací EXIF</p></item>
+    <item><title>Zobrazovat v globálních výsledcích hledání</title><p>Můžete určit, zda má být možné najít vaše obrázky a videa pomocí vyhledávacího stroje služby Flickr</p></item>
+  </list>
+
+</page>

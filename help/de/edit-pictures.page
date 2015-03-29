@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="guide" id="edit-pictures" xml:lang="de">
+
+  <info>
+    <link type="guide" xref="index#pictures"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Bilder hinzufügen</desc>
+  </info>
+
+  <title>Edit Details</title>
+  <p>To edit the details of a picture or a video, right-click on an element and choose <gui>Edit Details</gui>.Until you edit the details, these will use the default details.</p>
+  <figure>
+    <title>Bilddetails bearbeiten</title>
+    <desc>Details zum Bild hinzufügen.</desc>
+    <media type="image" src="figures/edit-picture-details.png" mime="image/png" style="right">
+    </media>
+  </figure>
+
+  <list>
+    <item><title>Titel</title><p>Verwenden Sie dieses Feld, um einen Titel hinzuzufügen.</p></item>
+    <item><title>Beschreibung</title><p>Add some description the element</p></item>
+    <item><title>Markierungen</title><p>Add some tags to better categorize the element</p></item>
+    <item><title>Sichtbarkeit</title><p>Choose whether the element is public or private.</p></item>
+    <item><title>Inhaltstyp</title><p>You can specify whether the element is a photo, a screenshot or something else</p></item>
+    <item><title>Sicherheitsstufe</title><p>You can rate the kind of element you're uploading</p></item>
+    <item><title>Lizenz</title><p>Sie können die Lizenz ändern oder die in Flickr vorgegebene Lizenz verwenden</p></item>
+    <item><title>Daten zur Geoposition</title><p>Sie können mit Frogr die Geopositions-Informationen für ein Bild auf Flickr anhand dessen EXIF-Information festlegen</p></item>
+    <item><title>In globalen Suchergebnissen anzeigen</title><p>You can specify whether it should be possible to find your picture or video using Flickr's search engine</p></item>
+  </list>
+
+</page>

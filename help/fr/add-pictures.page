@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="load-pictures" xml:lang="fr">
+
+  <info>
+    <link type="guide" xref="pictures"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Ajout d'éléments</desc>
+  </info>
+
+  <title>Ajout d'éléments</title>
+  <p>Vous pouvez ajouter une image ou une vidéo soit en cliquant sur le bouton <gui>Plus</gui> de la barre d'outils, soit en utilisant le menu <guiseq><gui>Fichier</gui><gui>Ajouter des éléments</gui></guiseq>. Les éléments ajoutés sont alors affichés et disponibles pour être téléversés sur Flickr.</p>
+
+</page>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="create-account" xml:lang="de">
+  <info>
+    <link type="guide" xref="index#account"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Einrichten eines Kontos</desc>
+  </info>
+
+  <title>Einrichten eines Kontos</title>
+  <p>Legen Sie zuerst ein Konto an</p>
+  <p>Wenn Sie <app>Frogr</app> zum ersten Mal starten, wird ein Fenster geöffnet, welches erklärt, dass Sie zunächst ein Konto anlegen müssen.</p>
+  <figure>
+    <title>Frogr legitimieren</title>
+    <desc>Anforderung eines Prüfcodes</desc>
+    <media type="image" src="figures/auth-dialog-step1.png" mime="image/png" style="right">
+    </media>
+  </figure>
+  <p>Sobald Sie auf <gui>OK</gui> geklickt haben, wird der voreingestellte Webbrowser geöffnet. Legen Sie auf der geöffneten Webseite entweder ein neues Flickr-Konto an oder melden Sie sich bei einem bestehenden Konto an.</p>
+  <p>Dann legitimieren Sie <app>Frogr</app> für den Zugriff auf dieses Konto. Danach können Sie zum <app>Frogr</app>-Fenster zurück gehen, den Prüfcode eingeben und Bilder hochladen.</p>
+  <figure>
+    <title>Frogr legitimieren</title>
+    <desc>Abschluss des Vorgangs</desc>
+    <media type="image" src="figures/auth-dialog-step2.png" mime="image/png" style="right">
+    </media>
+  </figure>
+</page>

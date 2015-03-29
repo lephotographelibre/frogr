@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="guide" id="pictures" xml:lang="el">
+
+  <info>
+    <link type="guide" xref="index#pictures"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Προσθήκη, αφαίρεση και ανέβασμα εικόνων και βίντεο</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name> Δημήτρης Σπίγγος</mal:name>
+      <mal:email>dmtrs32@gmail.com</mal:email>
+      <mal:years>2013</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Μεταφορά στοιχείων</title>
+  <p>Πρέπει πρώτα να προσθέσετε στοιχεία (εικόνες ή βίντεο) στο Frogr πριν να μπορέσετε να τα ανεβάσετε.</p>
+
+</page>

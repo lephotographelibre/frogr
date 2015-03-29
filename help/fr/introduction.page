@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="introduction" xml:lang="fr">
+<info>
+  <link type="guide" xref="index"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+  <desc>Introduction au gestionnaire distant <app>Frogr</app>.</desc>
+</info>
+<title>Introduction à Frogr</title>
+<p><app>Frogr</app> est un gestionnaire distant pour <link href="http://www.flickr.com/">Flickr</link>. <app>Frogr</app> est une petite application pour le bureau GNOME, qui permet aux utilisateurs du site Web d'hébergement Flickr de gérer leurs comptes.</p>
+  <figure>
+    <title>Fenêtre de <gui>Frogr</gui></title>
+    <desc>Fenêtre principale de <app>Frogr</app></desc>
+    <media type="image" src="figures/frogr-remote-organizer.png" mime="image/png" style="right">
+      <p>Fenêtre principale de <app>Frogr</app>.</p>
+    </media>
+  </figure>
+
+  <section><title>Flickr</title>
+    <p><link href="http://www.flickr.com/">Flickr</link> est un site Web permettant d'héberger des images et des vidéos.</p>
+  </section>
+
+  <section><title>Fonctions principales</title>
+    <list>
+      <item><p>Permettre le téléversement d'images et de vidéos sur Flickr</p></item>
+      <item><p>Permettre le téléversement d'images situées sur un ordinateur distant</p></item>
+      <item><p>Permettre l'ajout d'étiquettes aux images</p></item>
+      <item><p>Permettre la création d'albums et de regroupements dans lesquels des images peuvent être ajoutées après leur envoi.</p></item>
+      <item><p>Permettre la gestion de plusieurs comptes Flickr.</p></item>
+      <item><p>Permettre la sauvegarde et le chargement de projets.</p></item>
+    </list>
+  </section>
+
+  <section><title>À propos</title>
+    <p>Vous pouvez obtenir d'avantage d'information à propos de <app>Frogr</app> en utilisant le menu <guiseq><gui>Frogr</gui><gui>À propos</gui></guiseq>.</p>
+  </section>
+
+</page>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="guide" id="external-viewer" xml:lang="pt-BR">
+
+  <info>
+    <link type="guide" xref="index#pictures"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Abra um elemento em um aplicativo externo</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Rafael Ferreira</mal:name>
+      <mal:email>rafael.f.f1@gmail.com</mal:email>
+      <mal:years>2013</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Visualizador externo</title>
+  <p>Você pode exibir imagens ou vídeos em aplicativos externos. Clique com botão direito em alguma imagem e, então, escolha <gui>Abrir em um visualizador externo</gui>.</p>
+
+</page>

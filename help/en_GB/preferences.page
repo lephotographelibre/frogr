@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="guide" id="preferences" xml:lang="en-GB">
+
+  <info>
+    <link type="guide" xref="index#customize"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Preferences</desc>
+  </info>
+
+  <title>Preferences</title>
+
+  <p>Go to Preferences using menu <guiseq><gui>Frogr</gui><gui>Preferences</gui></guiseq>.</p>
+
+  <section id="preferences-general">
+    <title>General Preferences</title>
+    <figure>
+      <title><gui>Frogr</gui> general preferences</title>
+      <desc><app>Frogr</app> general preferences</desc>
+      <media type="image" src="figures/preferences-general.png" mime="image/png" style="right">
+        <p><app>Frogr</app> general preferences.</p>
+      </media>
+    </figure>
+  </section>
+
+  <section id="preferences-connection">
+    <title>Connection Preferences</title>
+    <p>This tab allows you to set up a proxy.</p>
+    <figure>
+      <title><gui>Frogr </gui> connection preferences</title>
+      <desc><app>Frogr</app> connection preferences</desc>
+      <media type="image" src="figures/preferences-connection.png" mime="image/png" style="right">
+        <p><app>Frogr</app> main window.</p>
+      </media>
+    </figure>
+  </section>
+
+  <section id="preferences-misc">
+    <title>Miscelleanous Preferences</title>
+    <figure>
+      <title><gui>Frogr </gui> misc preferences window</title>
+      <desc><app>Frogr</app> misc preferences window</desc>
+      <media type="image" src="figures/preferences-misc.png" mime="image/png" style="right">
+        <p><app>Frogr</app> misc preferences window.</p>
+      </media>
+    </figure>
+  </section>
+
+</page>

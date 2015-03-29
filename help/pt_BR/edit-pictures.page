@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="guide" id="edit-pictures" xml:lang="pt-BR">
+
+  <info>
+    <link type="guide" xref="index#pictures"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Corrija imagens</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Rafael Ferreira</mal:name>
+      <mal:email>rafael.f.f1@gmail.com</mal:email>
+      <mal:years>2013</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Editando detalhes</title>
+  <p>Para editar os detalhes de uma imagem ou um vídeo, clique com o botão direito em um elemento e escolha <gui>Editar detalhes</gui>. Até que você edite os detalhes, estes vão usar o detalhes padrão.</p>
+  <figure>
+    <title>Editando detalhes da imagem</title>
+    <desc>Corrija os detalhes da imagem.</desc>
+    <media type="image" src="figures/edit-picture-details.png" mime="image/png" style="right">
+    </media>
+  </figure>
+
+  <list>
+    <item><title>Título</title><p>Use esta caixa para corrigir o título</p></item>
+    <item><title>Descrição</title><p>Adicione alguma descrição ao elemento</p></item>
+    <item><title>Tags</title><p>Adicione algumas tags para categorizar melhor o elemento</p></item>
+    <item><title>Visibilidade</title><p>Verifique se o elemento é público ou privado.</p></item>
+    <item><title>Tipo comum</title><p>Você pode especificar se o elemento é uma foto, uma captura de tela ou outra coisa</p></item>
+    <item><title>Nível de segurança</title><p>Você pode classificar o tipo de elemento que você está enviando</p></item>
+    <item><title>Licença</title><p>Você pode alterar a licença ou usar apenas a padrão, definida pelo Flickr</p></item>
+    <item><title>Dados de geolocalização</title><p>Você pode deixar o frogr definir a informação de geolocalização de uma imagem no Flickr baseado na sua informação EXIF</p></item>
+    <item><title>Exibir nos resultados da pesquisa global</title><p>Você pode especificar se deveria ser possível localizar sua imagem ou vídeo usando o mecanismo de pesquisa do Flickr</p></item>
+  </list>
+
+</page>

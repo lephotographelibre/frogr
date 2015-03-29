@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="guide" id="external-viewer" xml:lang="es">
+
+  <info>
+    <link type="guide" xref="index#pictures"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Abrir un elemento con una aplicación externa</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Daniel Mustieles</mal:name>
+      <mal:email>daniel.mustieles@gmail.com</mal:email>
+      <mal:years>2011 - 2013</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Visor externo</title>
+  <p>Puede mostrar una imagen o un vídeo en una aplicación externa. Pulse con el botón derecho sobre una imagen y elija <gui>Abrir en visor externo</gui>.</p>
+
+</page>

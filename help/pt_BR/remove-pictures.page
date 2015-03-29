@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="remove-pictures" xml:lang="pt-BR">
+
+  <info>
+    <link type="guide" xref="pictures"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Removendo elementos</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Rafael Ferreira</mal:name>
+      <mal:email>rafael.f.f1@gmail.com</mal:email>
+      <mal:years>2013</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Removendo elementos</title>
+  <p>Você pode remover uma imagem ou um vídeo usando o botão <gui>Menos</gui> da barra de ferramentas. Ou você pode usar o menu <guiseq><gui>Arquivo</gui><gui>Remover elementos</gui></guiseq>.</p>
+
+</page>

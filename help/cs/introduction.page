@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="introduction" xml:lang="cs">
+<info>
+  <link type="guide" xref="index"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+  <desc>Úvod do vzdáleného organizátoru <app>Frogr</app></desc>
+
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Marek Černocký</mal:name>
+      <mal:email>marek@manet.cz</mal:email>
+      <mal:years>2011, 2012, 2013</mal:years>
+    </mal:credit>
+  </info>
+<title>Úvod do aplikace Frogr</title>
+<p><app>Frogr</app> je vzdálený organizátor pro službu <link href="http://www.flickr.com/">Flickr</link>. <app>Frogr</app> je malá aplikace pro pracovní prostředí GNOME, která uživateli umožňuje spravovat svůj účet na webové službě Flickr, která slouží k hostování obrázků.</p>
+  <figure>
+    <title>Okno <gui>Frogr</gui></title>
+    <desc>Hlavní okno <app>Frogr</app></desc>
+    <media type="image" src="figures/frogr-remote-organizer.png" mime="image/png" style="right">
+      <p>Hlavní okno aplikace <app>Frogr</app>.</p>
+    </media>
+  </figure>
+
+  <section><title>Flickr</title>
+    <p><link href="http://www.flickr.com/">Flickr</link> je webová služba, která umožňuje hostovat obrázky a videa.</p>
+  </section>
+
+  <section><title>Hlavní rysy</title>
+    <list>
+      <item><p>Umožňuje nahrávat obrázky a videa do služby Flickr</p></item>
+      <item><p>Umožňuje nahrávat obrázky umístěné na vzdálených strojích</p></item>
+      <item><p>Umožňuje přidávat k obrázkům štítky</p></item>
+      <item><p>Umožňuje pro obrázky specifikovat sady a skupiny, do kterých mohou být obrázky po načtení přidány</p></item>
+      <item><p>Podporuje práci s více účty Flickr</p></item>
+      <item><p>Podporuje ukládání a načítání projektů</p></item>
+    </list>
+  </section>
+
+  <section><title>O aplikaci</title>
+    <p>Více informací o aplikaci <app>Frogr</app> získáte použitím nabídky <guiseq><gui>Frogr</gui><gui>O aplikaci</gui></guiseq>.</p>
+  </section>
+
+</page>

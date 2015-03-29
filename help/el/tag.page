@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="guide" id="tag-pictures" xml:lang="el">
+
+  <info>
+    <link type="guide" xref="organize"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Στοιχεία ετικέτας</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name> Δημήτρης Σπίγγος</mal:name>
+      <mal:email>dmtrs32@gmail.com</mal:email>
+      <mal:years>2013</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Στοιχεία ετικέτας</title>
+  <p>Μπορείτε να δώσετε πολλές ετικέτες σε οποιοδήποτε στοιχείο. Το Flickr σας επιτρέπει να ορίσετε τις δικές σας ετικέτες. Σας επιτρέπει την εύκολη εύρεση οποιουδήποτε στοιχείου ανεβάσατε.</p>
+  <p>Δεξιοπατήστε σε ένα στοιχείο και επιλέξτε <gui>Προσθήκη ετικετών</gui>. Ή πατήστε στο μενού <gui>Επαξεργασία</gui> και επιλέξτε <gui>Προσθήκη ετικετών</gui>. Ή, όταν επεξεργάζεστε τις λεπτομέρειες του στοιχείου, μπορείτε να δείτε και να επεξεργαστείτε τις ετικέτες.</p>
+  <figure>
+    <title>Προσθήκη ετικετών στα στοιχεία</title>
+    <desc>Προσθήκη ετικετών στα στοιχεία</desc>
+    <media type="image" src="figures/add-tags-dialog.png" mime="image/png" style="right">
+    </media>
+  </figure>
+
+</page>

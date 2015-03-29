@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="guide" id="group-pictures" xml:lang="pt-BR">
+
+  <info>
+    <link type="guide" xref="organize"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Agrupe elementos</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Rafael Ferreira</mal:name>
+      <mal:email>rafael.f.f1@gmail.com</mal:email>
+      <mal:years>2013</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Adicionando aos grupos</title>
+  <p>Você pode adicionar imagens e vídeos a um grupo já definido.</p>
+  <figure>
+    <title>Adicionando elementos a grupos</title>
+    <desc>Adicionando elementos a grupos</desc>
+    <media type="image" src="figures/add-to-groups.png" mime="image/png" style="right">
+    </media>
+  </figure>
+
+</page>

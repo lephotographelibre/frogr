@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="introduction" xml:lang="el">
+<info>
+  <link type="guide" xref="index"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+  <desc>Εισαγωγή στον απομακρυσμένο οργανωτή του <app>Frogr</app>.</desc>
+
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name> Δημήτρης Σπίγγος</mal:name>
+      <mal:email>dmtrs32@gmail.com</mal:email>
+      <mal:years>2013</mal:years>
+    </mal:credit>
+  </info>
+<title>Εισαγωγή του Frogr</title>
+<p>Το <app>Frogr</app> είναι ένας απομακρυσμένος οργανωτής <link href="http://www.flickr.com/">Flickr</link>. Το <app>Frogr</app> είναι μια μικρή εφαρμογή για την επιφάνεια εργασίας του GNOME που επιτρέπει στους χρήστες να διαχειριστούν τους λογαριασμούς τους στον ιστότοπο φιλοξενίας εικόνας του Flickr.</p>
+  <figure>
+    <title>Το παράθυρο <gui>Frogr</gui></title>
+    <desc>Το κύριο παράθυρο του <app>Frogr</app></desc>
+    <media type="image" src="figures/frogr-remote-organizer.png" mime="image/png" style="right">
+      <p>Το κύριο παράθυρο του <app>Frogr</app>.</p>
+    </media>
+  </figure>
+
+  <section><title>Flickr</title>
+    <p>Το <link href="http://www.flickr.com/">Flickr</link> είναι ένας ιστότοπος που επιτρέπει την φιλοξενία εικόνων και βίντεο.</p>
+  </section>
+
+  <section><title>Κύρια χαρακτηριστικά</title>
+    <list>
+      <item><p>Επιτρέπει να ανεβάσετε εικόνες και βίντεο στο Flickr</p></item>
+      <item><p>Επιτρέπει να ανεβάσετε εικόνες τοποθετημένες σε απομακρυσμένες μηχανές</p></item>
+      <item><p>Επιτρέπει την προσθήκη ετικετών σε εικόνες</p></item>
+      <item><p>Επιτρέπει τον ορισμό δεξαμενών συνόλων και ομάδων για τις εικόνες που θα προστεθούν μετά τη διαδικασία μεταφόρτωσης.</p></item>
+      <item><p>Υποστηρίζει τον χειρισμό πολλαπλών λογαριασμών Flickr.</p></item>
+      <item><p>Υποστηρίζει την αποθήκευση και φόρτωση έργων.</p></item>
+    </list>
+  </section>
+
+  <section><title>Περί</title>
+    <p>Μπορείτε να έχετε περισσότερες πληροφορίες για το <app>Frogr</app> χρησιμοποιώντας το μενού <guiseq><gui>Frogr</gui><gui>Περί</gui></guiseq>.</p>
+  </section>
+
+</page>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="guide" id="set-pictures" xml:lang="el">
+
+  <info>
+    <link type="guide" xref="organize"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Προσθήκη στοιχείων σε σύνολα</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name> Δημήτρης Σπίγγος</mal:name>
+      <mal:email>dmtrs32@gmail.com</mal:email>
+      <mal:years>2013</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Προσθήκη στοιχείων σε σύνολα</title>
+  <p>Μπορείτε να προσθέσετε εικόνες και βίντεο σε σύνολα στο Flickr. Ένα σύνολο είναι μια κατηγορία. Ο ορισμός δεν υπονοεί ιεραρχική προβολή.</p>
+  <p>Δεξιοπατήστε σε ένα ή περισσότερα στοιχεία και επιλέξτε <gui>προσθήκη στο σύνολο</gui>. Μπορείτε να επιλέξετε να προσθέσετε σε ένα ήδη υπάρχον σύνολο ή να δημιουργήσετε ένα νέο.</p>
+  <figure>
+    <title>Προσθήκη στοιχείων σε υπάρχοντα σύνολα</title>
+    <desc>Προσθήκη στοιχείων σε υπάρχοντα σύνολα</desc>
+    <media type="image" src="figures/add-to-sets.png" mime="image/png" style="right">
+    </media>
+  </figure>
+
+  <figure>
+    <title>Δημιουργία νέων συνόλων για να προστεθούν στο</title>
+    <desc>Δημιουργία νέων συνόλων προσθήκη στοιχείων. Μπορείτε να χρησιμοποιήσετε τον τίτλο και την περιγραφή του συνόλου για κάθε επιλεγμένο στοιχείο επίσης</desc>
+    <media type="image" src="figures/create-new-set.png" mime="image/png" style="right">
+    </media>
+  </figure>
+
+</page>

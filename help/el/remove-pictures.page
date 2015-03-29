@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="remove-pictures" xml:lang="el">
+
+  <info>
+    <link type="guide" xref="pictures"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Απομάκρυνση στοιχείων</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name> Δημήτρης Σπίγγος</mal:name>
+      <mal:email>dmtrs32@gmail.com</mal:email>
+      <mal:years>2013</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Απομάκρυνση στοιχείων</title>
+  <p>Μπορείτε να αφαιρέσετε μια εικόνα ή ένα βίντεο χρησιμοποιώντας το κουμπί της εργαλειοθήκης <gui>πλην</gui>. Ή, μπορείτε να χρησιμοποιήσετε το μενού <guiseq><gui>Αρχείο</gui><gui>Αφαίρεση στοιχείων</gui></guiseq>.</p>
+
+</page>

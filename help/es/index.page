@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:e="http://projectmallard.org/experimental/" type="guide" id="index" xml:lang="es">
+
+  <info>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Daniel Mustieles</mal:name>
+      <mal:email>daniel.mustieles@gmail.com</mal:email>
+      <mal:years>2011 - 2013</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Ayuda de Frogr</title>
+
+  <section id="account">
+    <title>Gestionar su cuenta de Flickr</title>
+  </section>
+
+  <section id="pictures">
+    <title>Gestionar sus imágenes</title>
+  </section>
+
+  <section id="organize">
+    <title>Organizar y ordenar sus imágenes</title>
+  </section>
+
+  <section id="customize">
+    <title>Configurar Frogr</title>
+  </section>
+
+</page>

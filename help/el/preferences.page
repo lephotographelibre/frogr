@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="guide" id="preferences" xml:lang="el">
+
+  <info>
+    <link type="guide" xref="index#customize"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Προτιμήσεις</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name> Δημήτρης Σπίγγος</mal:name>
+      <mal:email>dmtrs32@gmail.com</mal:email>
+      <mal:years>2013</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Προτιμήσεις</title>
+
+  <p>Πηγαίνετε στις Προτιμήσεις χρησιμοποιώντας το μενού <guiseq><gui>Frogr</gui><gui>Προτιμήσεις</gui></guiseq>.</p>
+
+  <section id="preferences-general">
+    <title>Γενικές προτιμήσεις</title>
+    <figure>
+      <title>Οι γενικές προτιμήσεις του <gui>Frogr</gui></title>
+      <desc>Οι γενικές προτιμήσεις του <app>Frogr</app></desc>
+      <media type="image" src="figures/preferences-general.png" mime="image/png" style="right">
+        <p>Οι γενικές προτιμήσεις του <app>Frogr</app>.</p>
+      </media>
+    </figure>
+  </section>
+
+  <section id="preferences-connection">
+    <title>Προτιμήσεις σύνδεσης</title>
+    <p>Αυτή η καρτέλα σας επιτρέπει να ρυθμίσετε έναν διαμεσολαβητή.</p>
+    <figure>
+      <title>Οι προτιμήσεις σύνδεσης του <gui>Frogr</gui></title>
+      <desc>Οι προτιμήσεις σύνδεσης του <app>Frogr</app></desc>
+      <media type="image" src="figures/preferences-connection.png" mime="image/png" style="right">
+        <p>Το κύριο παράθυρο του <app>Frogr</app>.</p>
+      </media>
+    </figure>
+  </section>
+
+  <section id="preferences-misc">
+    <title>Διάφορες προτιμήσεις</title>
+    <figure>
+      <title>Το παράθυρο διάφορων προτιμήσεων του <gui>Frogr </gui></title>
+      <desc>Το παράθυρο διάφορων προτιμήσεων του <app>Frogr</app></desc>
+      <media type="image" src="figures/preferences-misc.png" mime="image/png" style="right">
+        <p>Το παράθυρο διάφορων προτιμήσεων του <app>Frogr</app>.</p>
+      </media>
+    </figure>
+  </section>
+
+</page>

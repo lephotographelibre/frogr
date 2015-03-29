@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="guide" id="set-pictures" xml:lang="fr">
+
+  <info>
+    <link type="guide" xref="organize"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Ajout d'éléments aux albums</desc>
+  </info>
+
+  <title>Ajout d'éléments aux albums</title>
+  <p>Vous pouvez ajouter des images et des vidéos aux albums dans Flickr. Un album représente une catégorie et n'implique pas de classement hiérarchique.</p>
+  <p>Faites un clic droit sur un ou plusieurs éléments et choisissez <gui>Ajouter à l'album</gui>. Vous pouvez utiliser un album existant ou en créer un nouveau.</p>
+  <figure>
+    <title>Ajouter des éléments aux albums existants</title>
+    <desc>Ajouter des éléments aux albums existants</desc>
+    <media type="image" src="figures/add-to-sets.png" mime="image/png" style="right">
+    </media>
+  </figure>
+
+  <figure>
+    <title>Création de nouveaux albums pour ajouter des éléments</title>
+    <desc>Lors de la création de nouveaux albums afin d'y ajouter des éléments, vous pouvez aussi utiliser les titres et descriptions de chaque élément sélectionné</desc>
+    <media type="image" src="figures/create-new-set.png" mime="image/png" style="right">
+    </media>
+  </figure>
+
+</page>

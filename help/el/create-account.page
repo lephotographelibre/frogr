@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="create-account" xml:lang="el">
+  <info>
+    <link type="guide" xref="index#account"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Πώς να δημιουργήσετε τον λογαριασμό σας</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name> Δημήτρης Σπίγγος</mal:name>
+      <mal:email>dmtrs32@gmail.com</mal:email>
+      <mal:years>2013</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Πώς να δημιουργήσετε τον λογαριασμό σας</title>
+  <p>Πρώτα δημιουργήστε έναν λογαριασμό</p>
+  <p>Όταν πρωτοεκτελείτε το <app>Frogr</app>, εμφανίζει ένα παράθυρο που εξηγεί ότι θα πρέπει να δημιουργήσετε έναν λογαριασμό.</p>
+  <figure>
+    <title>Εξουσιοδότηση του frogr</title>
+    <desc>Εξουσιοδότηση του frogr. Αίτηση κωδικού επιβεβαίωσης</desc>
+    <media type="image" src="figures/auth-dialog-step1.png" mime="image/png" style="right">
+    </media>
+  </figure>
+  <p>Πατήστε Εντάξει, θα εκτελέσει τον προεπιλεγμένο περιηγητή ιστού σας. Στον προεπιλεγμένο περιηγητή ιστού σας, δημιουργήστε είτε έναν λογαριασμό Flickr ή συνδεθείτε με έναν υπάρχοντα λογαριασμό.</p>
+  <p>Έπειτα, εξουσιοδοτήστε το <app>Frogr</app> να προσπελάσει αυτόν τον λογαριασμό. Μπορείτε τώρα να επιστρέψετε στο παράθυρο του <app>Frogr</app>, να εισάγετε τον κωδικό επιβεβαίωσης και να χρησιμοποιήσετε την εφαρμογή για να ανεβάσετε οποιαδήποτε εικόνα!</p>
+  <figure>
+    <title>Εξουσιοδότηση του frogr</title>
+    <desc>Εξουσιοδότηση του frogr. Τερματισμός της διαδικασίας</desc>
+    <media type="image" src="figures/auth-dialog-step2.png" mime="image/png" style="right">
+    </media>
+  </figure>
+</page>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="guide" id="preferences" xml:lang="de">
+
+  <info>
+    <link type="guide" xref="index#customize"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Einstellungen</desc>
+  </info>
+
+  <title>Einstellungen</title>
+
+  <p>Öffnen Sie das Einstellungsmenü mit <guiseq><gui>Frogr</gui><gui>Einstellungen</gui></guiseq>.</p>
+
+  <section id="preferences-general">
+    <title>Allgemeine Einstellungen</title>
+    <figure>
+      <title>Allgemeine Einstellungen für <gui>Frogr</gui></title>
+      <desc>Allgemeine Einstellungen für <app>Frogr</app></desc>
+      <media type="image" src="figures/preferences-general.png" mime="image/png" style="right">
+        <p>Allgemeine Einstellungen für <app>Frogr</app>.</p>
+      </media>
+    </figure>
+  </section>
+
+  <section id="preferences-connection">
+    <title>Verbindungseinstellungen</title>
+    <p>Hier können Sie einen Proxy festlegen.</p>
+    <figure>
+      <title>Verbindungseinstellungen für <gui>Frogr </gui></title>
+      <desc>Verbindungseinstellungen für <app>Frogr</app></desc>
+      <media type="image" src="figures/preferences-connection.png" mime="image/png" style="right">
+        <p><app>Frogr</app>-Hauptfenster.</p>
+      </media>
+    </figure>
+  </section>
+
+  <section id="preferences-misc">
+    <title>Weitere Einstellungen</title>
+    <figure>
+      <title><gui>Frogr</gui>-Fenster für weitere Einstellungen</title>
+      <desc><app>Frogr</app>-Fenster für weitere Einstellungen</desc>
+      <media type="image" src="figures/preferences-misc.png" mime="image/png" style="right">
+        <p><app>Frogr</app>-Fenster für weitere Einstellungen.</p>
+      </media>
+    </figure>
+  </section>
+
+</page>

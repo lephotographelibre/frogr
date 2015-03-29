@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="guide" id="pictures" xml:lang="fr">
+
+  <info>
+    <link type="guide" xref="index#pictures"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Ajouter, supprimer et envoyer des images et des vidéos</desc>
+  </info>
+
+  <title>Transfert d'éléments</title>
+  <p>Vous devez d'abord ajouter des éléments (images ou vidéos) à frogr avant de pouvoir les envoyer.</p>
+
+</page>

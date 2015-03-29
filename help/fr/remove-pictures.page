@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="remove-pictures" xml:lang="fr">
+
+  <info>
+    <link type="guide" xref="pictures"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Suppression d'éléments</desc>
+  </info>
+
+  <title>Suppression d'éléments</title>
+  <p>Vous pouvez supprimer une image ou une vidéo soit en cliquant sur le bouton <gui>Moins</gui> de la barre d'outils, soit par le menu <guiseq><gui>Fichier</gui><gui>Supprimer des éléments</gui></guiseq>.</p>
+
+</page>

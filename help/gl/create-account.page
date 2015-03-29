@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="create-account" xml:lang="gl">
+  <info>
+    <link type="guide" xref="index#account"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Como crear a súa conta</desc>
+  </info>
+
+  <title>Como crear a súa conta</title>
+  <p>Crear por primeira vez unha conta</p>
+  <p>Ao executar a primeira vez <app>Frogr</app>, mostra unha xanela que lle explica que ten que crear unha conta.</p>
+  <figure>
+    <title>Autorizando a Frogr</title>
+    <desc>Autorizando a Frogr. Solicitando un código de verificación</desc>
+    <media type="image" src="figures/auth-dialog-step1.png" mime="image/png" style="right">
+    </media>
+  </figure>
+  <p>Ao premer Aceptar, iniciarase o seu navegador web predetermiando. Nno navegador web pode crear unha conta de Flickr ou iniciar a sesión nunha conta existente.</p>
+  <p>Logo, autorice a <app>Frogr</app> para acceder a esta conta. Agora debe volver á xanela de <app>Frogr</app>, escribir o seu código de verificación e xa poderá usar o aplicativo para subir calquera imaxe!</p>
+  <figure>
+    <title>Autorizando a Frogr</title>
+    <desc>Autorizando a Frogr. Rematando o proceso</desc>
+    <media type="image" src="figures/auth-dialog-step2.png" mime="image/png" style="right">
+    </media>
+  </figure>
+</page>

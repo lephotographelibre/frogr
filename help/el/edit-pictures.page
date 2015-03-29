@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="guide" id="edit-pictures" xml:lang="el">
+
+  <info>
+    <link type="guide" xref="index#pictures"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Βελτίωση εικόνων</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name> Δημήτρης Σπίγγος</mal:name>
+      <mal:email>dmtrs32@gmail.com</mal:email>
+      <mal:years>2013</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Επεξεργασία λεπτομερειών</title>
+  <p>Για να επεξεργαστείτε τις λεπτομέρειες μιας εικόνας ή βίντεο, δεξιοπατήστε σε ένα στοιχείο και επιλέξτε <gui>Επεξεργασία λεπτομερειών</gui>. Μέχρι να επεξεργαστείτε τις λεπτομέρειες, αυτές θα χρησιμοποιούν τις προεπιλεγμένες λεπτομέρειες.</p>
+  <figure>
+    <title>Επεξεργασία λεπτομερειών εικόνας</title>
+    <desc>Βελτίωση λεπτομερειών εικόνας.</desc>
+    <media type="image" src="figures/edit-picture-details.png" mime="image/png" style="right">
+    </media>
+  </figure>
+
+  <list>
+    <item><title>Τίτλος</title><p>Χρησιμοποιήστε αυτό το πλαίσιο για να βελτιώσετε τον τίτλο</p></item>
+    <item><title>Περιγραφή</title><p>Προσθήκη κάποιας περιγραφής στο στοιχείο</p></item>
+    <item><title>Ετικέτες</title><p>Προσθήκη μερικών ετικετών για καλύτερη κατηγοριοποίηση του στοιχείου</p></item>
+    <item><title>Ορατότητα</title><p>Επιλέξτε αν το στοιχείο είναι δημόσιο ή ιδιωτικό.</p></item>
+    <item><title>Τύπος περιεχομένου</title><p>Μπορείτε να ορίσετε αν το στοιχείο είναι μια φωτογραφία, ένα στιγμιότυπο ή κάτι άλλο</p></item>
+    <item><title>Επίπεδο ασφάλειας</title><p>Μπορείτε να αξιολογήσετε το είδος του στοιχείου που μεταφορτώνετε</p></item>
+    <item><title>Άδεια</title><p>Μπορείτε να αλλάξετε την άδεια, ή απλά να χρησιμοποιήσετε την προεπιλεγμένη που ορίστηκε στο Flickr</p></item>
+    <item><title>Δεδομένα γεωεντοπισμού</title><p>Μπορείτε να επιτρέψετε στο frogr να ορίσει τις πληροφορίες γεωεντοπισμού για μια εικόνα στο Flickr με βάση τις πληροφορίες της EXIF</p></item>
+    <item><title>Να εμφανίζεται σε καθολικά αποτελέσματα αναζήτησης</title><p>Μπορείτε να ορίσετε αν θα πρέπει να είναι δυνατό να βρείτε την εικόνα σας ή το βίντεο σας χρησιμοποιώντας τη μηχανή αναζήτησης του Flickr</p></item>
+  </list>
+
+</page>

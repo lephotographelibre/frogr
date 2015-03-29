@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="guide" id="preferences" xml:lang="fr">
+
+  <info>
+    <link type="guide" xref="index#customize"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Préférences</desc>
+  </info>
+
+  <title>Préférences</title>
+
+  <p>Ouvrez les préférences en utilisant le menu <guiseq><gui>Frogr</gui><gui>Préférences</gui></guiseq>.</p>
+
+  <section id="preferences-general">
+    <title>Préférences générales</title>
+    <figure>
+      <title>Préférences générales de <gui>Frogr</gui></title>
+      <desc>Préférences générales de <app>Frogr</app></desc>
+      <media type="image" src="figures/preferences-general.png" mime="image/png" style="right">
+        <p>Préférences générales de <app>Frogr</app>.</p>
+      </media>
+    </figure>
+  </section>
+
+  <section id="preferences-connection">
+    <title>Préférences de connexion</title>
+    <p>Cet onglet vous permet de paramétrer un serveur mandataire.</p>
+    <figure>
+      <title>Préférences de connexion de <gui>Frogr</gui></title>
+      <desc>Préférences de connexion de <app>Frogr</app></desc>
+      <media type="image" src="figures/preferences-connection.png" mime="image/png" style="right">
+        <p>Fenêtre principale de <app>Frogr</app>.</p>
+      </media>
+    </figure>
+  </section>
+
+  <section id="preferences-misc">
+    <title>Préférences diverses</title>
+    <figure>
+      <title>Fenêtre des préférences diverses de <gui>Frogr</gui></title>
+      <desc>Fenêtre des préférences diverses de <app>Frogr</app></desc>
+      <media type="image" src="figures/preferences-misc.png" mime="image/png" style="right">
+        <p>Fenêtre des préférences diverses de <app>Frogr</app>.</p>
+      </media>
+    </figure>
+  </section>
+
+</page>

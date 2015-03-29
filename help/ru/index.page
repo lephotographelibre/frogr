@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:e="http://projectmallard.org/experimental/" type="guide" id="index" xml:lang="ru">
+
+  <info>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+  </info>
+
+  <title>Справка Frogr</title>
+
+  <section id="account">
+    <title>Управление вашей учётной записью Flickr</title>
+  </section>
+
+  <section id="pictures">
+    <title>Управление фотоснимками</title>
+  </section>
+
+  <section id="organize">
+    <title xml:lang="en_GB">Organize and Sort Your Pictures</title>
+  </section>
+
+  <section id="customize">
+    <title>Первоначальная настройка Frogr</title>
+  </section>
+
+</page>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="guide" id="tag-pictures" xml:lang="fr">
+
+  <info>
+    <link type="guide" xref="organize"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Étiquetage des éléments</desc>
+  </info>
+
+  <title>Étiquetage des éléments</title>
+  <p>Vous pouvez attribuer plusieurs étiquettes à n'importe quel élément. Flickr vous permet de créer vos propres étiquettes pour retrouver facilement n'importe quel élément que vous avez envoyé.</p>
+  <p>Right-click on a element, and choose <gui>Add tags</gui>. Or click on the menu <gui>Edit</gui>, and choose <gui>Add tags</gui>. Or, when you're editing element's detail, you can see and edit the tags</p>
+  <figure>
+    <title>Ajouter des étiquettes aux éléments</title>
+    <desc>Ajouter des étiquettes aux éléments</desc>
+    <media type="image" src="figures/add-tags-dialog.png" mime="image/png" style="right">
+    </media>
+  </figure>
+
+</page>

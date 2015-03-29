@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="guide" id="set-pictures" xml:lang="cs">
+
+  <info>
+    <link type="guide" xref="organize"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Přidávání objektů do sad</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Marek Černocký</mal:name>
+      <mal:email>marek@manet.cz</mal:email>
+      <mal:years>2011, 2012, 2013</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Přidávání objektů do sad</title>
+  <p>Libovolné obrázky a videa můžete přidávat do sad. Sada je v podstatě kategorie. Sady nepředstavují hierarchickou strukturu.</p>
+  <p>Klikněte pravým tlačítkem na jeden nebo více vybraných objektů a zvolte <gui>Přidat do sady</gui>. Můžete si zvolit, zda se má přidávat do již existující sady nebo můžete vytvořit novou.</p>
+  <figure>
+    <title>Přidávání objektů do existujících sad</title>
+    <desc>Přidávání objektů do existujících sad</desc>
+    <media type="image" src="figures/add-to-sets.png" mime="image/png" style="right">
+    </media>
+  </figure>
+
+  <figure>
+    <title>Vytváření nové sady pro přidání objektů</title>
+    <desc>Vytváření nové sady pro přidání objektů. Název a popis sady můžete použít také pro každý vybraný objekt</desc>
+    <media type="image" src="figures/create-new-set.png" mime="image/png" style="right">
+    </media>
+  </figure>
+
+</page>

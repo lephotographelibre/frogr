@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="upload-pictures" xml:lang="es">
+
+  <info>
+    <link type="guide" xref="pictures"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Subir elementos</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Daniel Mustieles</mal:name>
+      <mal:email>daniel.mustieles@gmail.com</mal:email>
+      <mal:years>2011 - 2013</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Subir elementos</title>
+  <p>Puede subir imágenes y vídeos usando el botón <gui>flecha</gui> de la barra de herramientas. O puede usar el menú <guiseq><gui>Archivo</gui><gui>Subir todo</gui></guiseq>. Las imágenes subidas desaparecerán de la lista. Puede quitar algunas imágenes antes de subir todas para conservar el resto.</p>
+
+</page>

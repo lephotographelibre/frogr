@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="upload-pictures" xml:lang="cs">
+
+  <info>
+    <link type="guide" xref="pictures"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Nahrávejte objekty</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Marek Černocký</mal:name>
+      <mal:email>marek@manet.cz</mal:email>
+      <mal:years>2011, 2012, 2013</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Nahrávejte objekty</title>
+  <p>Obrázky a videa můžete nahrávat pomocí tlačítka se <gui>šipkou</gui> na liště nástrojů. Nebo můžete použít nabídku <guiseq><gui>Soubor</gui><gui>Nahrát vše</gui></guiseq>. Obrázky, které se nahrají, zmizí ze seznamu. Než zbývající obrázky nahrajete, můžete některé z nich odebrat.</p>
+
+</page>

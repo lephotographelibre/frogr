@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="guide" id="preferences" xml:lang="es">
+
+  <info>
+    <link type="guide" xref="index#customize"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Preferencias</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Daniel Mustieles</mal:name>
+      <mal:email>daniel.mustieles@gmail.com</mal:email>
+      <mal:years>2011 - 2013</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Preferencias</title>
+
+  <p>Vaya a las preferencias usando el menú <guiseq><gui>Frogr</gui><gui>Preferencias</gui></guiseq>.</p>
+
+  <section id="preferences-general">
+    <title>Preferencias generales</title>
+    <figure>
+      <title>Preferencias generales de <gui>Frogr</gui></title>
+      <desc>Preferencias generales de <app>Frogr</app></desc>
+      <media type="image" src="figures/preferences-general.png" mime="image/png" style="right">
+        <p>Preferencias generales de <app>Frogr</app>.</p>
+      </media>
+    </figure>
+  </section>
+
+  <section id="preferences-connection">
+    <title>Preferencias de la conexión</title>
+    <p>Esta pestaña le permite configurar un proxy.</p>
+    <figure>
+      <title>Preferencias de la conexión de <gui>Frogr </gui></title>
+      <desc>Preferencias de conexión de <app>Frogr</app></desc>
+      <media type="image" src="figures/preferences-connection.png" mime="image/png" style="right">
+        <p>Ventana principal de <app>Frogr</app>.</p>
+      </media>
+    </figure>
+  </section>
+
+  <section id="preferences-misc">
+    <title>Preferencias varias</title>
+    <figure>
+      <title>Ventana de preferencias varias de <gui>Frogr</gui></title>
+      <desc>Ventana de preferencias varias de <app>Frogr</app></desc>
+      <media type="image" src="figures/preferences-misc.png" mime="image/png" style="right">
+        <p>Ventana de preferencias varias de <app>Frogr</app>.</p>
+      </media>
+    </figure>
+  </section>
+
+</page>

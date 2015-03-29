@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="guide" id="tag-pictures" xml:lang="pt-BR">
+
+  <info>
+    <link type="guide" xref="organize"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Aplicando tag em elementos</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Rafael Ferreira</mal:name>
+      <mal:email>rafael.f.f1@gmail.com</mal:email>
+      <mal:years>2013</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Aplicando tag em elementos</title>
+  <p>Você pode atribuir várias tags para cada elemento. Flickr permite que você defina suas próprias tags. ele permite que você encontre facilmente qualquer elemento que você enviou.</p>
+  <p>Clique com o botão direito em um elemento e escolha <gui>Adicionar tags</gui>. Ou clique no menu <gui>Editar</gui> e escolha <gui>Adicionar tags</gui>. Ou quando você estiver editando o detalhe do elemento, você pode ver e editar as tags.</p>
+  <figure>
+    <title>Adicionando tags aos elementos</title>
+    <desc>Adicionando tags aos elementos</desc>
+    <media type="image" src="figures/add-tags-dialog.png" mime="image/png" style="right">
+    </media>
+  </figure>
+
+</page>

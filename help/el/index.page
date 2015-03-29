@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:e="http://projectmallard.org/experimental/" type="guide" id="index" xml:lang="el">
+
+  <info>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name> Δημήτρης Σπίγγος</mal:name>
+      <mal:email>dmtrs32@gmail.com</mal:email>
+      <mal:years>2013</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Bοήθεια Frogr</title>
+
+  <section id="account">
+    <title>Διαχείριση του λογαριασμού σας Flickr</title>
+  </section>
+
+  <section id="pictures">
+    <title>Διαχείριση των εικόνων σας</title>
+  </section>
+
+  <section id="organize">
+    <title>Οργάνωση και ταξινόμηση των εικόνων σας</title>
+  </section>
+
+  <section id="customize">
+    <title>Ρύθμιση Frogr</title>
+  </section>
+
+</page>

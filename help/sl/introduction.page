@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="introduction" xml:lang="sl">
+<info>
+  <link type="guide" xref="index"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+  <desc>Uvod v  <app>Frogr</app> oddaljen organizator.</desc>
+</info>
+<title>Predstavitev Frogr</title>
+<p><app>Frogr</app> je oddaljeni organizator <link href="http://www.flickr.com/">Flickr</link>. <app>Frogr</app> je majhen program namizja GNOME, ki omogoča uporabnikom organizacijo svojih računov na gostiteljskem spletišču za slike Flickr.</p>
+  <figure>
+    <title>Okno <gui>Frogr</gui></title>
+    <desc>Glavno okno <app>Frogr</app></desc>
+    <media type="image" src="figures/frogr-remote-organizer.png" mime="image/png" style="right">
+      <p>Glavno okno <app>Frogr</app>.</p>
+    </media>
+  </figure>
+
+  <section><title>Flickr</title>
+    <p><link href="http://www.flickr.com/">Flickr</link> je spletišče, ki omogoča gostovanje slik in videov.</p>
+  </section>
+
+  <section><title>Glavne zmožnosti</title>
+    <list>
+      <item><p>Allow to upload pictures and videos to Flickr</p></item>
+      <item><p>Dovoli pošiljanje slik, ki se nahajajo na oddaljenih računalnikih</p></item>
+      <item><p>Dovoli dodajanje oznak k slikam</p></item>
+      <item><p>Dovoli določanje zbirk in skupin za slike, ki bodo dodane po opravilu pošiljanja.</p></item>
+      <item><p>Podpora za upravljanje več računov Flickr.</p></item>
+      <item><p>Support for saving and loading projects.</p></item>
+    </list>
+  </section>
+
+  <section><title>About</title>
+    <p>You can have more information about <app>Frogr</app> using the menu <guiseq><gui>Frogr</gui><gui>About</gui></guiseq>.</p>
+  </section>
+
+</page>

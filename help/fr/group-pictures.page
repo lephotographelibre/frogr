@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="guide" id="group-pictures" xml:lang="fr">
+
+  <info>
+    <link type="guide" xref="organize"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Éléments groupés</desc>
+  </info>
+
+  <title>Ajout aux groupes</title>
+  <p>Vous pouvez ajouter des images et des vidéos à un groupe créé auparavant.</p>
+  <figure>
+    <title>Ajouter des éléments aux groupes</title>
+    <desc>Ajouter des éléments aux groupes</desc>
+    <media type="image" src="figures/add-to-groups.png" mime="image/png" style="right">
+    </media>
+  </figure>
+
+</page>

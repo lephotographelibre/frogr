@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="display" xml:lang="fr">
+
+  <info>
+    <link type="guide" xref="index#organize"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Remanier l'affichage</desc>
+  </info>
+
+  <title>Tri des éléments</title>
+  <p>Vous pouvez trier les éléments par titre, par date de prise ou par ordre de chargement. Cliquez sur le menu <gui>Affichage</gui> et sélectionnez l'affichage désiré. Vous pouvez également inverser l'ordre.</p>
+
+</page>

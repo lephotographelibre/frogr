@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="load-pictures" xml:lang="pt-BR">
+
+  <info>
+    <link type="guide" xref="pictures"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Adicionando elementos</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Rafael Ferreira</mal:name>
+      <mal:email>rafael.f.f1@gmail.com</mal:email>
+      <mal:years>2013</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Adicionando elementos</title>
+  <p>Você pode adicionar uma imagem ou um vídeo usando o botão <gui>mais</gui> da barra de ferramentas. Ou você pode usar o menu em <guiseq><gui>Arquivo</gui><gui>Adicionar elementos</gui></guiseq>. Os elementos carregados serão exibidos e postos à disposição para transferência para o Flickr.</p>
+
+</page>

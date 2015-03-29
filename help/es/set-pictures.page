@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="guide" id="set-pictures" xml:lang="es">
+
+  <info>
+    <link type="guide" xref="organize"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Añadir etiquetas a álbumes</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Daniel Mustieles</mal:name>
+      <mal:email>daniel.mustieles@gmail.com</mal:email>
+      <mal:years>2011 - 2013</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Añadir etiquetas a álbumes</title>
+  <p>Puede añadir imágenes y vídeos a un álbum de Flickr. Un álbum es una categoría, pero no implica una vista jerárquica.</p>
+  <p>Pulse con el botón derecho en uno o más elementos y elija <gui>Añadir al álbum</gui>. Debe elegir entre añadirlo a un álbum existente o crear uno nuevo.</p>
+  <figure>
+    <title>Añadir elementos a álbumes existentes</title>
+    <desc>Añadir elementos a álbumes existentes</desc>
+    <media type="image" src="figures/add-to-sets.png" mime="image/png" style="right">
+    </media>
+  </figure>
+
+  <figure>
+    <title>Crear álbumes nuevos a los que añadir elementos</title>
+    <desc>Crear álbumes nuevos a los que añadir elementos. También puede usar el título del álbum y su descripción para cada elemento seleccionado.</desc>
+    <media type="image" src="figures/create-new-set.png" mime="image/png" style="right">
+    </media>
+  </figure>
+
+</page>

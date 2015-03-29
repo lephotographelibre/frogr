@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="guide" id="external-viewer" xml:lang="fr">
+
+  <info>
+    <link type="guide" xref="index#pictures"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Visualiser des éléments dans un éditeur externe</desc>
+  </info>
+
+  <title>Éditeur externe</title>
+  <p>Vous pouvez afficher vos images ou vidéos dans une application externe. Faites un clic droit puis choisissez <gui>Ouvrir dans un éditeur externe</gui>.</p>
+
+</page>

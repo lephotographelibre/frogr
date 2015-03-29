@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="guide" id="tag-pictures" xml:lang="cs">
+
+  <info>
+    <link type="guide" xref="organize"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Štítkování objektů</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Marek Černocký</mal:name>
+      <mal:email>marek@manet.cz</mal:email>
+      <mal:years>2011, 2012, 2013</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Štítkování objektů</title>
+  <p>Libovolnému objektu můžete přiřadit několik štítků. Flickr vám umožňuje definovat si své vlastní štítky. Tak můžete v objektech, které jste nahráli, snadno hledat.</p>
+  <p>Klikněte pravým tlačítkem na objekt a zvolte <gui>Přidat štítky</gui>. Nebo klikněte na nabídku <gui>Upravit</gui> a zvolte <gui>Přidat štítky</gui>. A nebo štítky můžete vidět a upravovat při úpravě podrobností objektu.</p>
+  <figure>
+    <title>Přidávání štítků k objektům</title>
+    <desc>Přidávání štítků k objektům</desc>
+    <media type="image" src="figures/add-tags-dialog.png" mime="image/png" style="right">
+    </media>
+  </figure>
+
+</page>

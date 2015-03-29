@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="display" xml:lang="el">
+
+  <info>
+    <link type="guide" xref="index#organize"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Βελτίωση προβολής</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name> Δημήτρης Σπίγγος</mal:name>
+      <mal:email>dmtrs32@gmail.com</mal:email>
+      <mal:years>2013</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Ταξινόμηση στοιχείων</title>
+  <p>Μπορείτε να ταξινομήσετε τα στοιχεία κατά τίτλο, κατά ημερομηνία, κατά μέγεθος ή όπως φορτώθηκαν. Πατήστε στο μενού <gui>Προβολή</gui> και επιλέξτε τον κατάλληλο τρόπο ταξινόμησης. Μπορείτε επίσης να χρησιμοποιήσετε αντίστροφη σειρά.</p>
+
+</page>

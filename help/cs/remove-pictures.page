@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="remove-pictures" xml:lang="cs">
+
+  <info>
+    <link type="guide" xref="pictures"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+    <desc>Odebírejte objekty</desc>
+  
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Marek Černocký</mal:name>
+      <mal:email>marek@manet.cz</mal:email>
+      <mal:years>2011, 2012, 2013</mal:years>
+    </mal:credit>
+  </info>
+
+  <title>Odebírejte objekty</title>
+  <p>Obrázky a videa můžete odebírat pomocí tlačítka se symbolem <gui>mínus</gui> na liště nástrojů. Nebo můžete použít nabídku <guiseq><gui>Soubor</gui><gui>Odebrat obrázky</gui></guiseq>.</p>
+
+</page>

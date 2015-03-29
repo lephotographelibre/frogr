@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="introduction" xml:lang="pt-BR">
+<info>
+  <link type="guide" xref="index"/>
+    <revision pkgversion="0" version="0.7" date="2012-04-12" status="draft"/>
+  <desc>Introdução ao organizador remoto <app>Frogr</app>.</desc>
+
+    <mal:credit xmlns:mal="http://projectmallard.org/1.0/" type="translator copyright">
+      <mal:name>Rafael Ferreira</mal:name>
+      <mal:email>rafael.f.f1@gmail.com</mal:email>
+      <mal:years>2013</mal:years>
+    </mal:credit>
+  </info>
+<title>Introdução ao Frogr</title>
+<p><app>Frogr</app> é um organizador remoto de <link href="http://www.flickr.com/">Flickr</link>. O <app>Frogr</app> é um pequeno aplicativo para o ambiente do GNOME que permite que usuários gerencia suas contas no site de hospedagem de imagens do Flickr.</p>
+  <figure>
+    <title>Janela do <gui>Frogr</gui></title>
+    <desc>Janela principal do <app>Frogr</app></desc>
+    <media type="image" src="figures/frogr-remote-organizer.png" mime="image/png" style="right">
+      <p>Janela principal do <app>Frogr</app>.</p>
+    </media>
+  </figure>
+
+  <section><title>Flickr</title>
+    <p><link href="http://www.flickr.com/">Flickr</link> é um site que permite hospedagem de ambias imagens e vídeos.</p>
+  </section>
+
+  <section><title>Funcionalidades principais</title>
+    <list>
+      <item><p>Permite enviar imagens e vídeos para o Flickr</p></item>
+      <item><p>Permite o envio de imagens localizadas em máquinas remotas</p></item>
+      <item><p>Permite adicionar tags às imagens</p></item>
+      <item><p>Permite especificar conjuntos e grupos de imagens para serem adicionadas após o processo de envio.</p></item>
+      <item><p>Suporte a manipulação de múltiplas contas do Flickr.</p></item>
+      <item><p>Suporte para salvar e carregar projetos.</p></item>
+    </list>
+  </section>
+
+  <section><title>Sobre</title>
+    <p>Você pode ter mais informações sobre o <app>Frogr</app> usando o menu <guiseq><gui>Frogr</gui><gui>Sobre</gui></guiseq>.</p>
+  </section>
+
+</page>
