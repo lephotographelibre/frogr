@@ -1,4 +1,8 @@
 # frogr
+This is a test for using github
+the real Frogr application  by Mario Sánchez is available from: git clone git://git.gnome.org/frogr
+ 
+
 Frogr is a small application for the GNOME desktop that allows users to manage their accounts in the Flickr image hosting website. It supports all the basic Flickr features, including uploading pictures, adding descriptions, setting tags and managing sets and groups pools.
 
 1 récuperation des sources du produit http://ftp.acc.umu.se/pub/GNOME/sources/frogr/0.11/frogr-0.11.tar.xz
